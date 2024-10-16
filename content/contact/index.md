@@ -21,7 +21,7 @@ sections:
 #        country_code: US
       coordinates:
         latitude: '113.38'
-        longitude: '-23.07'
+        longitude: '23.07'
       directions: 9 Xingdaohuanbei Road, Bio-island, Haizhu District, Guangzhou, China
  #     office_hours:
  #       - 'Monday 10:00 to 13:00'
