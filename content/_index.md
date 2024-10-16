@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to Yu Lab
+        Wowchemy
+        Research Group
       image:
         filename: welcome.png
       text: |
