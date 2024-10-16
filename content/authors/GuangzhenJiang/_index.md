@@ -37,8 +37,8 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BS in Gansu Agricultural University
-      institution: College of Science and Technology
+    - course: BS in College of Life Science and Technology
+      institution: Gansu Agricultural University
       year: 2015-2019
 
 # Social/Academic Networking
@@ -74,7 +74,7 @@ user_groups:
 #  - Visitors
 ---
 
-Guangzhen Jiang（蒋光振）is a PhD student jointly trained by the University of Science and Technology of China and the Guangzhou National Laboratory. His research focuses on:  
-1. The development of live attenuated vaccines utilizing a codon pair de-optimization strategy.  
-2. The screening of adenoviral vectors suitable for mucosal delivery.  
+Guangzhen Jiang（蒋光振）is a PhD student jointly trained by the University of Science and Technology of China and the Guangzhou National Laboratory. His research focuses on:
+1. The development of live attenuated vaccines utilizing a codon pair de-optimization strategy.
+2. The screening of adenoviral vectors suitable for mucosal delivery.
 In addition, he is interested in the epigenetic influences on immune memory and the underlying interplay mechanisms between vaccination and epigenetics.
