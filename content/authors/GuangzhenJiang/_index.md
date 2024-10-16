@@ -37,7 +37,7 @@ education:
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BS in College of Life Science and Technology
+    - course: BS in Biotechnology
       institution: Gansu Agricultural University
       year: 2015-2019
 
