@@ -23,10 +23,10 @@ sections:
         latitude: '23.070621000000003'
         longitude: '113.38034700000003'
       directions: 9 Xingdaohuanbei Road, Bio-island, Haizhu District, Guangzhou, China
- #     office_hours:
- #       - 'Monday 10:00 to 13:00'
- #       - 'Wednesday 09:00 to 10:00'
- #     appointment_url: 'https://calendly.com'
+#     office_hours:
+#       - 'Monday 10:00 to 13:00'
+#       - 'Wednesday 09:00 to 10:00'
+#     appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,15 +37,15 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#       netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+#         captcha: false
+#    design:
+#      columns: '1'
 
   - block: markdown
     content:
