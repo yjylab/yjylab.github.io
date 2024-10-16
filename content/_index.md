@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        About us
       image:
         filename: welcome.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We seek to explore the mechanisms of immune defense against viruses at the mucosal surfaces, and to develop the mucosal vaccine strategies. we are also devoting efforts to optimizing current vaccine platforms for more safe, effective, and affordable utilizations. 
   
   - block: collection
     content:
