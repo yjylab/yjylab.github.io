@@ -13,7 +13,7 @@ sections:
       email: yu_jingyou@egzlab.ac.cn
       phone: 888 888 88 88
       address:
-        street: 9 Xingdaohuanbei Road, Bio-island
+        street: 9 Xingdaohuanbei Road
         city: Guangzhou
         region: Guangdong
         postcode: '510200'
