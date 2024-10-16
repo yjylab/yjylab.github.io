@@ -9,7 +9,6 @@ sections:
     content:
       title: |
         Welcome to Yu Lab
-
       image:
         filename: welcome.png
       text: |
