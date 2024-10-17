@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Shixiong Li
+title: Yao Zhang
 
 # Full name (for SEO)
-first_name: Shixiong
-last_name: Li
+first_name: Yao
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - ShixiongLi
+  - YaoZhang
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Nankai University
+  - name: Sun Yat-sen University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,15 +31,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Biochemistry and Molecular Biology
-      institution: Nankai University
-      year: 2022-Now
-    - course: MS in Bioengineering
-      institution: Nankai University
+    - course: PhD in Basic Medicine
+      institution: Sun Yat-sen University
+      year: 2023-Now
+    - course: MS in Biochemistry and Molecular Biology
+      institution: Guangzhou Medical University
       year: 2019-2022
-    - course: BS in Bioengineering
-      institution: Hubei Engineering University
-      year: 2014-2018
+    - course: BS in Biological Science
+      institution: Shihezi University
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'li_shixiong@gzlab.ac.cn'
+    link: 'zhang_yao2@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-Shixiong received his bachelor's in bioengineering from Hubei Engineering University in 2018. Then he completed his master's degree in bioengineering researching anti-tumor drug at Nankai University. During this time, he found himself very interested in vaccines. Then He joined the Yulab as Joint training of doctoral students in 2022. He research in the Yulab focus on the development of adenovirus vector vaccine against infectious diseases and the mechanism of heterologous immunity. He enjoy the outdoors, playing basketball, running, swimming and so on.
+Yao（张媱）is a doctoral student enrolled since 2023 at the Guangzhou Laboratory, Sun Yat-sen University, majoring in Basic Medicine. Her research focuses on the development of respiratory virus vaccines. Prior to her doctoral studies, she completed her Master's degree in Biochemistry and Molecular Biology at Guangzhou Medical University from 2019 to 2022. She obtained her Bachelor's degree in Biological Sciences from Shihezi University in 2015-2019. Yao gained research experience as a Research Intern at the Guangzhou Laboratory from 2022 to 2023.
