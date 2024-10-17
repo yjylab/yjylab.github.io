@@ -18,7 +18,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Guangzhou Laboratory
+  - name: Guangzhou National Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
