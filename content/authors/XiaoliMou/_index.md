@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yao Zhang
+title: Xiaoli Mou
 
 # Full name (for SEO)
-first_name: Yao
-last_name: Zhang
+first_name: Xiaoli Mou
+last_name: Mou
 
 # Username (this should match the folder name)
 authors:
-  - YaoZhang
+  - XiaoliMou
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include heterologous immunity and the development of antiviral vaccines.
+bio: My research interests include the study of virus-host interaction mechanism and the development and application of adenovirus vectored-vaccines.
 
 interests:
-  - Heterologous immunity
-  - Antiviral vaccines
+  - Virus-host interaction mechanism
+  - Adenovirus vectored-vaccines
 #  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Basic Medicine
+    - course: PhD in Immunology
       institution: Sun Yat-sen University
-      year: 2023-Now
-    - course: MS in Biochemistry and Molecular Biology
-      institution: Guangzhou Medical University
-      year: 2019-2022
-    - course: BS in Biological Science
-      institution: Shihezi University
-      year: 2015-2019
+      year: 2024-Now
+    - course: MS in Pathogenic Biology
+      institution: Wuhan University
+      year: 2020-2023
+    - course: BS in Medical Inspection Technology
+      institution: Zhengzhou University
+      year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhang_yao2@gzlab.ac.cn'
+    link: 'xiaoli_mou@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-Yao（张媱）is a doctoral student enrolled since 2023 at the Guangzhou Laboratory, Sun Yat-sen University, majoring in Basic Medicine. Her research focuses on the development of respiratory virus vaccines. Prior to her doctoral studies, she completed her Master's degree in Biochemistry and Molecular Biology at Guangzhou Medical University from 2019 to 2022. She obtained her Bachelor's degree in Biological Sciences from Shihezi University in 2015-2019. Yao gained research experience as a Research Intern at the Guangzhou Laboratory from 2022 to 2023.
+Xiaoli Mou（牟晓丽）received her bachelor's degree from Zhengzhou University, then she completed her master's degree of pathogen biology in Wuhan University. She is a doctoral student enrolled since 2024 at the Guangzhou Laboratory, Sun Yat-sen University, majoring in immunology. Her research focuses on the study of virus-host interaction mechanism and the development and application of adenovirus vectored-vaccines.
