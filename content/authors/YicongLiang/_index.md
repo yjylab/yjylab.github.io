@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dongfang Wang
+title: Yicong Liang
 
 # Full name (for SEO)
-first_name: Dongfang
-last_name: Wang
+first_name: Yicong
+last_name: Liang
 
 # Username (this should match the folder name)
 authors:
-  - DongfangWang
+  - YicongLiang
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mechanisms of antiviral action and the development of vaccine adjuvants.
+bio: My research interests include exosomes and the development of vaccine adjuvants.
 
 interests:
   - Antiviral mechanisms
-  - Vaccine adjuvants
+  - Exosome
 #  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Microbiology and Molecular Biology
-      institution: Harbin Veterinary Research Institute, CAAS
-      year: 2017-2022
-    - course: MS in Molecular Virology
-      institution: Jilin Agricultural University
-      year: 2014-2017
-    - course: BS in Veterinary Medicine
-      institution: Henan Agricultural University
-      year: 2010-2014
+    - course: PhD in Biochemistry and Molecular Biology
+      institution: Ji'nan University
+      year: 2020-2023
+    - course: MS in Bioengineering
+      institution: Ji'nan University
+      year: 2017-2020
+    - course: BS in Biological Science
+      institution: Guangzhou University
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wang_dongfang@gzlab.ac.cn'
+    link: 'liang_yicong@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-Dr. Wang（王东方）joined the Yu Lab in May 2023 as a postdoctoral fellow. She is currently studying the antiviral mechanisms of a few essential cellular factors, including IFITM, TIM, and LY6E. She obtained her doctor's degree from the Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences, and master's from Jilin Agricultural University and bachelor's from Henan Agricultural University.
+Yicong（梁艺聪）joined the Yu lab in August 2024. He earned his Ph.D. from the Institute of Medical Microbiology, College of Life Science and Technology, Jinan University in 2023. His previous research investigated the role of extracellular vesicles (EVs) in the infection, replication, and transmission of Enterovirus 71 (EV71). His current research primarily focuses on optimizing EVs-based vaccine delivery platforms and exploring the underlying mechanisms.
