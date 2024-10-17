@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Guangzhen Jiang
+title: JunHao Fan
 
 # Full name (for SEO)
-first_name: Guangzhen
-last_name: Jiang
+first_name: JunHao
+last_name: Fan
 
 # Username (this should match the folder name)
 authors:
-  - GuangzhenJiang
+  - JunHaoFan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Science and Technology of China
+  - name: Guangzhou Laboratory
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Attenuated Vaccine
+  - mucosal immunity
   - Adenovirus vector
 #  - Information Retrieval
 
 education:
-  courses:
-    - course: PhD in Microbiology
-      institution: University of Science and Technology of China
-      year: 2020-Now
+#  courses:
+#    - course: PhD in Microbiology
+#      institution: University of Science and Technology of China
+#      year: 2020-Now
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
-    - course: BS in Biotechnology
-      institution: Gansu Agricultural University
-      year: 2015-2019
+#    - course: BS in Biotechnology
+#      institution: Gansu Agricultural University
+#      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jiang_guangzhen@gzlab.ac.cn'
+    link: 'fan_junhao@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -70,14 +70,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Candidate
+  - Postdoc
 #  - Visitors
 ---
 
-Guangzhen Jiang（蒋光振）is a PhD student jointly trained by the University of Science and Technology of China and the Guangzhou National Laboratory. His research focuses on:
 
-1. The development of live attenuated vaccines utilizing a codon pair de-optimization strategy.
-
-2. The screening of adenoviral vectors suitable for mucosal delivery.
-
-In addition, he is interested in the epigenetic influences on immune memory and the underlying interplay mechanisms between vaccination and epigenetics.
