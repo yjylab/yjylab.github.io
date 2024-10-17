@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-Shixiong received his bachelor's in bioengineering from Hubei Engineering University in 2018. Then he completed his master's degree in bioengineering researching anti-tumor drug at Nankai University. During this time, he found himself very interested in vaccines. Then He joined the Yulab as Joint training of doctoral students in 2022. He research in the Yulab focus on the development of adenovirus vector vaccine against infectious diseases and the mechanism of heterologous immunity. He enjoy the outdoors, playing basketball, running, swimming and so on.
+Shixiong（李势雄）received his bachelor's in bioengineering from Hubei Engineering University in 2018. Then he completed his master's degree in bioengineering researching anti-tumor drug at Nankai University. During this time, he found himself very interested in vaccines. Then He joined the Yulab as Joint training of doctoral students in 2022. He research in the Yulab focus on the development of adenovirus vector vaccine against infectious diseases and the mechanism of heterologous immunity. He enjoy the outdoors, playing basketball, running, swimming and so on.
