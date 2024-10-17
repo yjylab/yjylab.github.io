@@ -3,7 +3,7 @@
 title: Xinyu Guo
 
 # Full name (for SEO)
-first_name: Xinyu Guo
+first_name: Xinyu
 last_name: Guo
 
 # Username (this should match the folder name)
