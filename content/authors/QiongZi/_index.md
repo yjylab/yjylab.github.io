@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Shixiong Li
+title: Qiong Zi
 
 # Full name (for SEO)
-first_name: Shixiong
-last_name: Li
+first_name: Qiong Zi
+last_name: Zi
 
 # Username (this should match the folder name)
 authors:
-  - ShixiongLi
+  - QiongZi
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,28 +18,28 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Nankai University
+  - name: ShanghaiTech University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include heterologous immunity and the development of antiviral vaccines.
+bio: My research interests include antiviral vaccines and immune response.
 
 interests:
-  - Heterologous immunity
+  - Immune response
   - Antiviral vaccines
 #  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Biochemistry and Molecular Biology
-      institution: Nankai University
-      year: 2022-Now
+    - course: PhD in Biology
+      institution: ShanghaiTech University
+      year: 2024-Now
     - course: MS in Bioengineering
-      institution: Nankai University
+      institution: Zhengzhou University
       year: 2019-2022
-    - course: BS in Bioengineering
-      institution: Hubei Engineering University
-      year: 2014-2018
+    - course: BS in Biotechnology
+      institution: Hunan University of Science & Technology
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'li_shixiong@gzlab.ac.cn'
+    link: 'zi_qiong@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-Shixiong received his bachelor's in bioengineering from Hubei Engineering University in 2018. Then he completed his master's degree in bioengineering researching anti-tumor drug at Nankai University. During this time, he found himself very interested in vaccines. Then He joined the Yulab as Joint training of doctoral students in 2022. He research in the Yulab focus on the development of adenovirus vector vaccine against infectious diseases and the mechanism of heterologous immunity. He enjoy the outdoors, playing basketball, running, swimming and so on.
+Qiong Zi（资琼）received her bachelor's degree from bioengineering from Hunan University of Science and Technology in 2019. Then she completed his master's degree in Zhengzhou University in 2022. During this time, She found herself very interested in viruses and vaccines. She's currently working as a research assistant in Yu Lab, her research focuses on the study of the innate immune response mechanism of vaccines with different technical routes, especially mRNA vaccine and adenovirus vector vaccine. Besides doing scientific research, she enjoys the sports, including playing badminton, table tennis, and so on.
