@@ -35,7 +35,7 @@ education:
       institution: Harbin Veterinary Research Institute, CAAS
       year: 2017-2022
     - course: MS in Molecular Virology
-     institution: Jilin Agricultural University
+      institution: Jilin Agricultural University
       year: 2014-2017
     - course: BS in Veterinary Medicine
       institution: Henan Agricultural University
