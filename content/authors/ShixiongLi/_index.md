@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Yicong Liang
+title: Shixiong Li
 
 # Full name (for SEO)
-first_name: Yicong
-last_name: Liang
+first_name: Shixiong
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - YicongLiang
+  - ShixiongLi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoc
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: Guangzhou National Laboratory
+  - name: Nankai University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include exosomes and the development of vaccine adjuvants.
+bio: My research interests include heterologous immunity and the development of antiviral vaccines.
 
 interests:
-  - Antiviral mechanisms
-  - Exosome
+  - Heterologous immunity
+  - Antiviral vaccines
 #  - Information Retrieval
 
 education:
   courses:
     - course: PhD in Biochemistry and Molecular Biology
-      institution: Ji'nan University
-      year: 2020-2023
+      institution: Nankai University
+      year: 2022-Now
     - course: MS in Bioengineering
-      institution: Ji'nan University
-      year: 2017-2020
-    - course: BS in Biological Science
-      institution: Guangzhou University
-      year: 2013-2017
+      institution: Nankai University
+      year: 2019-2022
+    - course: BS in Bioengineering
+      institution: Hubei Engineering University
+      year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'liang_yicong@gzlab.ac.cn'
+    link: 'li_shixiong@gzlab.ac.cn'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -70,8 +70,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc
+  - PhD Candidate
 #  - Visitors
 ---
 
-Yicong（梁艺聪）joined the Yu lab in August 2024. He earned his Ph.D. from the Institute of Medical Microbiology, College of Life Science and Technology, Jinan University in 2023. His previous research investigated the role of extracellular vesicles (EVs) in the infection, replication, and transmission of Enterovirus 71 (EV71). His current research primarily focuses on optimizing EVs-based vaccine delivery platforms and exploring the underlying mechanisms.
+Shixiong received his bachelor's in bioengineering from Hubei Engineering University in 2018. Then he completed his master's degree in bioengineering researching anti-tumor drug at Nankai University. During this time, he found himself very interested in vaccines. Then He joined the Yulab as Joint training of doctoral students in 2022. He research in the Yulab focus on the development of adenovirus vector vaccine against infectious diseases and the mechanism of heterologous immunity. He enjoy the outdoors, playing basketball, running, swimming and so on.
