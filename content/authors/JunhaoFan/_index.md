@@ -74,4 +74,4 @@ user_groups:
 #  - Visitors
 ---
 
-
+Dr. Fan（范峻豪）was born in Inner Mongolia, China. He received his Master's and Ph.D. degrees in Preventive Veterinary Medicine from Inner Mongolia Agricultural University and Chinese Academy of Agricultural Sciences. As a graduate student, he studied the mechanism of Senecavirus A persistent infection, and optimized the purification method of the inactivated vaccine. Junhao Fan joined the Yu lab in Septermber 2022. In Yu lab, he devotes to developing novel nasal and oral vaccines and exploring the underlying immune mechanisms that confer an optimal protection. 
